@@ -1,0 +1,2485 @@
+{
+    "messageId": "aafcc8bc-a2b5-4975-bdc1-a7c078733db1",
+    "version": "1.0",
+    "timestamp": "2025-10-31T16:59:54+01:00",
+    "payload": {
+        "flexibilitySiteId": "e7c9a27b-f8f5-4cb1-a45e-a0a877401635",
+        "flexmatrixId": "0357d4cc-e009-48f0-be9a-8b5276f396f2",
+        "flexmatrix": [
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 20.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T00:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T01:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T01:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T02:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T02:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T03:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T03:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T04:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T04:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T05:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T05:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T06:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T06:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T07:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T07:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T08:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T08:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T09:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T09:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T10:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 0.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            },
+            {
+                "increaseTime": {
+                    "deliveryStart": "2025-09-02T10:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T11:00:00+00:00"
+                },
+                "decreaseTime": {
+                    "deliveryStart": "2025-09-02T11:00:00+00:00",
+                    "deliveryEnd": "2025-09-02T12:00:00+00:00"
+                },
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                },
+                "cost": {
+                    "value": 1,
+                    "unit": "EUR/kWh"
+                }
+            }
+        ],
+        "plan": [
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 10.0,
+                    "unit": "kW"
+                }
+            },
+            {
+                "deliveryStart": "2025-09-02T00:00:00+00:00",
+                "deliveryEnd": "2025-09-02T01:00:00+00:00",
+                "quantity": {
+                    "value": 0,
+                    "unit": "kW"
+                }
+            }
+        ]
+    }
+}
