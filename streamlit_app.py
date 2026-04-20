@@ -1,5 +1,11 @@
 import streamlit as st
+import json
+import pandas as pd
 
-st.title('🎈 App Name')
+st.header("This is the flexmatrix displayed as a plain Matrix", divider="gray")
+st.markdown("The flexmatrix shows all flexibility options given the schedule provided by the depots.")
 
-st.write('TEST!')
+data = json.load(open("flex_message.json"))
+
+df = pd.DataFrame(data)
+st.dataframe(df)
